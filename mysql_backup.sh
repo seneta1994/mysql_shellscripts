@@ -4,7 +4,6 @@
 ##
 ##   MySQL Database Backup Script 
 ##   Written By: Ivan
-##   URL: https://tecadmin.net/bash-script-mysql-database-backup/
 ##   Last Update: Jan 05, 2019
 ##
 ################################################################
